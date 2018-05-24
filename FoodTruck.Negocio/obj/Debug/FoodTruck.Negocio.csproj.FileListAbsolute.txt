@@ -1,0 +1,21 @@
+c:\users\guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Negocio\bin\Debug\FoodTruck.Negocio.dll
+c:\users\guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Negocio\bin\Debug\FoodTruck.Negocio.pdb
+c:\users\guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.csprojResolveAssemblyReference.cache
+c:\users\guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.dll
+c:\users\guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Negocio\bin\Debug\FoodTruck.Negocio.dll
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Negocio\bin\Debug\FoodTruck.Negocio.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.dll
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.pdb
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Negocio\bin\Debug\FoodTruck.Negocio.dll
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Negocio\bin\Debug\FoodTruck.Negocio.pdb
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.dll
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.pdb
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Negocio\bin\Debug\FoodTruck.Negocio.dll
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Negocio\bin\Debug\FoodTruck.Negocio.pdb
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.dll
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Negocio\obj\Debug\FoodTruck.Negocio.pdb
