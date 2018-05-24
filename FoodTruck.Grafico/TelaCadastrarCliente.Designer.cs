@@ -36,12 +36,14 @@
             this.tbEmail = new System.Windows.Forms.TextBox();
             this.btSalvar = new System.Windows.Forms.Button();
             this.btCancelar = new System.Windows.Forms.Button();
+            this.imagemCliente = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.imagemCliente)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(46, 24);
+            this.label1.Location = new System.Drawing.Point(46, 61);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(30, 13);
             this.label1.TabIndex = 0;
@@ -50,7 +52,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(38, 56);
+            this.label2.Location = new System.Drawing.Point(38, 93);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(38, 13);
             this.label2.TabIndex = 1;
@@ -59,7 +61,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(41, 88);
+            this.label3.Location = new System.Drawing.Point(41, 125);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(35, 13);
             this.label3.TabIndex = 2;
@@ -67,7 +69,7 @@
             // 
             // tbCpf
             // 
-            this.tbCpf.Location = new System.Drawing.Point(83, 21);
+            this.tbCpf.Location = new System.Drawing.Point(83, 58);
             this.tbCpf.Name = "tbCpf";
             this.tbCpf.Size = new System.Drawing.Size(189, 20);
             this.tbCpf.TabIndex = 3;
@@ -75,21 +77,21 @@
             // 
             // tbNome
             // 
-            this.tbNome.Location = new System.Drawing.Point(83, 53);
+            this.tbNome.Location = new System.Drawing.Point(83, 90);
             this.tbNome.Name = "tbNome";
             this.tbNome.Size = new System.Drawing.Size(342, 20);
             this.tbNome.TabIndex = 4;
             // 
             // tbEmail
             // 
-            this.tbEmail.Location = new System.Drawing.Point(82, 85);
+            this.tbEmail.Location = new System.Drawing.Point(82, 122);
             this.tbEmail.Name = "tbEmail";
             this.tbEmail.Size = new System.Drawing.Size(342, 20);
             this.tbEmail.TabIndex = 5;
             // 
             // btSalvar
             // 
-            this.btSalvar.Location = new System.Drawing.Point(269, 127);
+            this.btSalvar.Location = new System.Drawing.Point(268, 151);
             this.btSalvar.Name = "btSalvar";
             this.btSalvar.Size = new System.Drawing.Size(75, 23);
             this.btSalvar.TabIndex = 6;
@@ -99,7 +101,7 @@
             // 
             // btCancelar
             // 
-            this.btCancelar.Location = new System.Drawing.Point(350, 127);
+            this.btCancelar.Location = new System.Drawing.Point(349, 151);
             this.btCancelar.Name = "btCancelar";
             this.btCancelar.Size = new System.Drawing.Size(75, 23);
             this.btCancelar.TabIndex = 7;
@@ -107,11 +109,23 @@
             this.btCancelar.UseVisualStyleBackColor = true;
             this.btCancelar.Click += new System.EventHandler(this.btCancelar_Click);
             // 
+            // imagemCliente
+            // 
+            this.imagemCliente.Image = global::FoodTruck.Grafico.Properties.Resources.user;
+            this.imagemCliente.Location = new System.Drawing.Point(324, 12);
+            this.imagemCliente.Name = "imagemCliente";
+            this.imagemCliente.Size = new System.Drawing.Size(100, 72);
+            this.imagemCliente.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.imagemCliente.TabIndex = 8;
+            this.imagemCliente.TabStop = false;
+            this.imagemCliente.Click += new System.EventHandler(this.imagemCliente_Click);
+            // 
             // TelaCadastrarCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(468, 186);
+            this.Controls.Add(this.imagemCliente);
             this.Controls.Add(this.btCancelar);
             this.Controls.Add(this.btSalvar);
             this.Controls.Add(this.tbEmail);
@@ -122,6 +136,7 @@
             this.Controls.Add(this.label1);
             this.Name = "TelaCadastrarCliente";
             this.Text = "TelaCadastrarCliente";
+            ((System.ComponentModel.ISupportInitialize)(this.imagemCliente)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -137,5 +152,6 @@
         private System.Windows.Forms.TextBox tbEmail;
         private System.Windows.Forms.Button btSalvar;
         private System.Windows.Forms.Button btCancelar;
+        private System.Windows.Forms.PictureBox imagemCliente;
     }
 }
