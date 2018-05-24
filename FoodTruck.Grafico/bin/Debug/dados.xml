@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DadosGravador xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Clientes>
+    <Cliente>
+      <CPF>86750435258</CPF>
+      <Nome>Laura Santos</Nome>
+      <Email>laura@gmail.com</Email>
+    </Cliente>
+    <Cliente>
+      <CPF>90866547311</CPF>
+      <Nome>Fabricio Lima</Nome>
+      <Email>fab34@gmail.com</Email>
+    </Cliente>
+    <Cliente>
+      <CPF>78655434210</CPF>
+      <Nome>Carmen Cardoso</Nome>
+      <Email>carminha54@gmail.com</Email>
+    </Cliente>
+    <Cliente>
+      <CPF>80766544321</CPF>
+      <Nome>Roger Fernandes</Nome>
+      <Email>roger.fernandes@gmail.com</Email>
+    </Cliente>
+    <Cliente>
+      <CPF>85647321980</CPF>
+      <Nome>Katiane Rocha</Nome>
+      <Email>kati@gmail.com</Email>
+    </Cliente>
+  </Clientes>
+  <Lanches>
+    <Lanche>
+      <Id>4</Id>
+      <Nome>Xis Salada</Nome>
+      <Valor>6.00</Valor>
+    </Lanche>
+    <Lanche>
+      <Id>6</Id>
+      <Nome>Pastel de Carne</Nome>
+      <Valor>4.50</Valor>
+    </Lanche>
+    <Lanche>
+      <Id>2</Id>
+      <Nome>Pastel de Frango</Nome>
+      <Valor>4.00</Valor>
+    </Lanche>
+    <Lanche>
+      <Id>2</Id>
+      <Nome>Cachorro Quente</Nome>
+      <Valor>4.50</Valor>
+    </Lanche>
+    <Lanche>
+      <Id>1</Id>
+      <Nome>Fritas</Nome>
+      <Valor>6.50</Valor>
+    </Lanche>
+  </Lanches>
+  <Bebidas>
+    <Bebida>
+      <Id>1</Id>
+      <Nome>Coca-Cola</Nome>
+      <Valor>5.99</Valor>
+      <Tamanho>100</Tamanho>
+    </Bebida>
+    <Bebida>
+      <Id>3</Id>
+      <Nome>Fanta Uva</Nome>
+      <Valor>4.50</Valor>
+      <Tamanho>350</Tamanho>
+    </Bebida>
+    <Bebida>
+      <Id>5</Id>
+      <Nome>Skol Lata</Nome>
+      <Valor>3.40</Valor>
+      <Tamanho>300</Tamanho>
+    </Bebida>
+    <Bebida>
+      <Id>9</Id>
+      <Nome>Fanta</Nome>
+      <Valor>5.00</Valor>
+      <Tamanho>1000</Tamanho>
+    </Bebida>
+    <Bebida>
+      <Id>4</Id>
+      <Nome>Água mineral</Nome>
+      <Valor>2.00</Valor>
+      <Tamanho>500</Tamanho>
+    </Bebida>
+    <Bebida>
+      <Id>10</Id>
+      <Nome>Sprite</Nome>
+      <Valor>4.00</Valor>
+      <Tamanho>1000</Tamanho>
+    </Bebida>
+  </Bebidas>
+  <Pedidos>
+    <Pedido>
+      <Id>1</Id>
+      <Data>2017-04-27T20:00:00</Data>
+      <Cliente>
+        <CPF>456</CPF>
+        <Nome>Zezinho</Nome>
+        <Email>zeh@patinhascorp.com</Email>
+      </Cliente>
+      <Encerrado>false</Encerrado>
+      <Lanches>
+        <Lanche>
+          <Id>4</Id>
+          <Nome>Xis Salada</Nome>
+          <Valor>6.00</Valor>
+        </Lanche>
+      </Lanches>
+      <Bebidas />
+    </Pedido>
+    <Pedido>
+      <Id>2</Id>
+      <Data>2017-04-20T13:00:00</Data>
+      <Cliente>
+        <CPF>123</CPF>
+        <Nome>Guilherme</Nome>
+        <Email>guilherme.defreitas@gmail.com</Email>
+      </Cliente>
+      <Encerrado>false</Encerrado>
+      <Lanches>
+        <Lanche>
+          <Id>2</Id>
+          <Nome>Pastel de Frango</Nome>
+          <Valor>4.00</Valor>
+        </Lanche>
+      </Lanches>
+      <Bebidas />
+    </Pedido>
+    <Pedido>
+      <Id>3</Id>
+      <Data>2017-08-25T21:15:00</Data>
+      <Cliente>
+        <CPF>15965779158</CPF>
+        <Nome>Zeca Urubu</Nome>
+        <Email>zeca@bol.com</Email>
+      </Cliente>
+      <Encerrado>false</Encerrado>
+      <Lanches />
+      <Bebidas>
+        <Bebida>
+          <Id>1</Id>
+          <Nome>Coca-Cola</Nome>
+          <Valor>5.99</Valor>
+          <Tamanho>100</Tamanho>
+        </Bebida>
+      </Bebidas>
+    </Pedido>
+    <Pedido>
+      <Id>5</Id>
+      <Data>2018-05-24T01:34:00</Data>
+      <Cliente>
+        <CPF>86750435258</CPF>
+        <Nome>Laura Santos</Nome>
+        <Email>laura@gmail.com</Email>
+      </Cliente>
+      <Encerrado>false</Encerrado>
+      <Lanches />
+      <Bebidas />
+    </Pedido>
+  </Pedidos>
+</DadosGravador>

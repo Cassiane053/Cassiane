@@ -1,0 +1,81 @@
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\bin\Debug\FoodTruck.Grafico.exe.config
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\bin\Debug\FoodTruck.Grafico.exe
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\bin\Debug\FoodTruck.Grafico.pdb
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\bin\Debug\FoodTruck.Negocio.dll
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\bin\Debug\FoodTruck.Negocio.pdb
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.Properties.Resources.resources
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.csproj.GenerateResource.Cache
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.exe
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.pdb
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaPrincipal.resources
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarCliente.resources
+C:\Users\Guilherme\documents\visual studio 2015\Projects\FoodTruck\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarClientes.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\bin\Debug\FoodTruck.Grafico.exe.config
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.exe
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\bin\Debug\FoodTruck.Grafico.exe
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\bin\Debug\FoodTruck.Grafico.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\bin\Debug\FoodTruck.Negocio.dll
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\bin\Debug\FoodTruck.Negocio.pdb
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarBebidas.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarClientes.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.Properties.Resources.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarBebida.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarCliente.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaPrincipal.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarLanches.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarLanche.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarPedidos.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarPedido.resources
+C:\Users\Guilherme\Documents\Visual Studio 2015\Projects\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaAdicionarBebidaPedido.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\bin\Debug\FoodTruck.Grafico.exe.config
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.exe
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.pdb
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\bin\Debug\FoodTruck.Grafico.exe
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\bin\Debug\FoodTruck.Grafico.pdb
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\bin\Debug\FoodTruck.Negocio.dll
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\bin\Debug\FoodTruck.Negocio.pdb
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarLanches.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarBebidas.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarClientes.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarPedidos.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.Properties.Resources.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaAdicionarBebidaPedido.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarLanche.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarBebida.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarCliente.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarPedido.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaPrincipal.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.csproj.GenerateResource.Cache
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.Detalhes.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaAdicionarLanchePedido.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaRemoverBebidaPedido.resources
+C:\Users\eduar\Desktop\FoodTruck_ECP\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaRemoverLanchePedido.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\bin\Debug\FoodTruck.Grafico.exe.config
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\bin\Debug\FoodTruck.Grafico.exe
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\bin\Debug\FoodTruck.Grafico.pdb
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\bin\Debug\FoodTruck.Negocio.dll
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\bin\Debug\FoodTruck.Negocio.pdb
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.csprojResolveAssemblyReference.cache
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarLanches.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarBebidas.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarClientes.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.ListarPedidos.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.Properties.Resources.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaAdicionarBebidaPedido.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaAdicionarLanchePedido.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarLanche.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarBebida.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarCliente.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaCadastrarPedido.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaPrincipal.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaRemoverBebidaPedido.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaRemoverLanchePedido.resources
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.csproj.GenerateResource.Cache
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.csproj.CoreCompileInputs.cache
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.exe
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.pdb
