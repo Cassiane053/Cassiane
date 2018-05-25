@@ -94,12 +94,12 @@
   </Bebidas>
   <Pedidos>
     <Pedido>
-      <Id>1</Id>
-      <Data>2017-04-27T20:00:00</Data>
+      <Id>3</Id>
+      <Data>2018-05-24T21:34:00</Data>
       <Cliente>
-        <CPF>456</CPF>
-        <Nome>Zezinho</Nome>
-        <Email>zeh@patinhascorp.com</Email>
+        <CPF>80766544321</CPF>
+        <Nome>Roger Fernandes</Nome>
+        <Email>roger.fernandes@gmail.com</Email>
       </Cliente>
       <Encerrado>false</Encerrado>
       <Lanches>
@@ -109,36 +109,6 @@
           <Valor>6.00</Valor>
         </Lanche>
       </Lanches>
-      <Bebidas />
-    </Pedido>
-    <Pedido>
-      <Id>2</Id>
-      <Data>2017-04-20T13:00:00</Data>
-      <Cliente>
-        <CPF>123</CPF>
-        <Nome>Guilherme</Nome>
-        <Email>guilherme.defreitas@gmail.com</Email>
-      </Cliente>
-      <Encerrado>false</Encerrado>
-      <Lanches>
-        <Lanche>
-          <Id>2</Id>
-          <Nome>Pastel de Frango</Nome>
-          <Valor>4.00</Valor>
-        </Lanche>
-      </Lanches>
-      <Bebidas />
-    </Pedido>
-    <Pedido>
-      <Id>3</Id>
-      <Data>2017-08-25T21:15:00</Data>
-      <Cliente>
-        <CPF>15965779158</CPF>
-        <Nome>Zeca Urubu</Nome>
-        <Email>zeca@bol.com</Email>
-      </Cliente>
-      <Encerrado>false</Encerrado>
-      <Lanches />
       <Bebidas>
         <Bebida>
           <Id>1</Id>
@@ -147,18 +117,6 @@
           <Tamanho>100</Tamanho>
         </Bebida>
       </Bebidas>
-    </Pedido>
-    <Pedido>
-      <Id>5</Id>
-      <Data>2018-05-24T01:34:00</Data>
-      <Cliente>
-        <CPF>86750435258</CPF>
-        <Nome>Laura Santos</Nome>
-        <Email>laura@gmail.com</Email>
-      </Cliente>
-      <Encerrado>false</Encerrado>
-      <Lanches />
-      <Bebidas />
     </Pedido>
   </Pedidos>
 </DadosGravador>
