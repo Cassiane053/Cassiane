@@ -56,5 +56,10 @@ namespace FoodTruck.Grafico
         {
 
         }
+
+        private void imagemCliente_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

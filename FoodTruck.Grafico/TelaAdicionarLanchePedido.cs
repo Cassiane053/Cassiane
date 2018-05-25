@@ -46,5 +46,10 @@ namespace FoodTruck.Grafico
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

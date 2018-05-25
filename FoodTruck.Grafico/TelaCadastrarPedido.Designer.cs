@@ -36,12 +36,14 @@
             this.cbCliente = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(35, 29);
+            this.label1.Location = new System.Drawing.Point(35, 61);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(19, 13);
             this.label1.TabIndex = 0;
@@ -50,7 +52,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(21, 69);
+            this.label2.Location = new System.Drawing.Point(21, 101);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(33, 13);
             this.label2.TabIndex = 1;
@@ -59,7 +61,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(12, 109);
+            this.label3.Location = new System.Drawing.Point(12, 141);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(42, 13);
             this.label3.TabIndex = 2;
@@ -67,17 +69,17 @@
             // 
             // tbId
             // 
-            this.tbId.Location = new System.Drawing.Point(60, 26);
+            this.tbId.Location = new System.Drawing.Point(60, 58);
             this.tbId.Name = "tbId";
-            this.tbId.Size = new System.Drawing.Size(147, 20);
+            this.tbId.Size = new System.Drawing.Size(269, 20);
             this.tbId.TabIndex = 3;
             this.tbId.TextChanged += new System.EventHandler(this.tbId_TextChanged);
             // 
             // tbData
             // 
-            this.tbData.Location = new System.Drawing.Point(60, 66);
+            this.tbData.Location = new System.Drawing.Point(60, 98);
             this.tbData.Name = "tbData";
-            this.tbData.Size = new System.Drawing.Size(147, 20);
+            this.tbData.Size = new System.Drawing.Size(269, 20);
             this.tbData.TabIndex = 4;
             this.tbData.TextChanged += new System.EventHandler(this.tbData_TextChanged);
             this.tbData.Leave += new System.EventHandler(this.tbData_Leave);
@@ -85,14 +87,14 @@
             // cbCliente
             // 
             this.cbCliente.FormattingEnabled = true;
-            this.cbCliente.Location = new System.Drawing.Point(60, 106);
+            this.cbCliente.Location = new System.Drawing.Point(60, 138);
             this.cbCliente.Name = "cbCliente";
-            this.cbCliente.Size = new System.Drawing.Size(318, 21);
+            this.cbCliente.Size = new System.Drawing.Size(272, 21);
             this.cbCliente.TabIndex = 5;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(206, 203);
+            this.button1.Location = new System.Drawing.Point(348, 186);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 6;
@@ -102,7 +104,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(303, 203);
+            this.button2.Location = new System.Drawing.Point(429, 186);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 7;
@@ -110,11 +112,23 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::FoodTruck.Grafico.Properties.Resources.pedido;
+            this.pictureBox1.Location = new System.Drawing.Point(387, 58);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(117, 96);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 8;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
             // TelaCadastrarPedido
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(442, 249);
+            this.ClientSize = new System.Drawing.Size(542, 236);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.cbCliente);
@@ -126,6 +140,7 @@
             this.Name = "TelaCadastrarPedido";
             this.Text = "TelaCadastrarPedido";
             this.Load += new System.EventHandler(this.TelaCadastrarPedido_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -141,5 +156,6 @@
         private System.Windows.Forms.ComboBox cbCliente;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

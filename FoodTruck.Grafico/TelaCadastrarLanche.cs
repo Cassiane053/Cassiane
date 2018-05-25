@@ -91,5 +91,10 @@ namespace FoodTruck.Grafico
             Util.Gerenciador.RemoverLanchePorCodigo(this.lanche.Id);
             this.Close();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

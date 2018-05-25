@@ -37,6 +37,8 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.btnRemover = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -70,7 +72,7 @@
             // 
             this.tbId.Location = new System.Drawing.Point(78, 53);
             this.tbId.Name = "tbId";
-            this.tbId.Size = new System.Drawing.Size(186, 20);
+            this.tbId.Size = new System.Drawing.Size(289, 20);
             this.tbId.TabIndex = 4;
             this.tbId.TextChanged += new System.EventHandler(this.tbId_TextChanged);
             // 
@@ -85,7 +87,7 @@
             // 
             this.tbValor.Location = new System.Drawing.Point(78, 125);
             this.tbValor.Name = "tbValor";
-            this.tbValor.Size = new System.Drawing.Size(100, 20);
+            this.tbValor.Size = new System.Drawing.Size(289, 20);
             this.tbValor.TabIndex = 6;
             this.tbValor.TextChanged += new System.EventHandler(this.tbValor_TextChanged);
             // 
@@ -119,11 +121,23 @@
             this.btnRemover.UseVisualStyleBackColor = true;
             this.btnRemover.Click += new System.EventHandler(this.btnRemover_Click);
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::FoodTruck.Grafico.Properties.Resources.lanche;
+            this.pictureBox1.Location = new System.Drawing.Point(439, 53);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(118, 101);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 11;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
             // TelaCadastrarLanche
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(583, 269);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnRemover);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -135,6 +149,7 @@
             this.Controls.Add(this.label1);
             this.Name = "TelaCadastrarLanche";
             this.Text = "Lanche";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -151,5 +166,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button btnRemover;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
