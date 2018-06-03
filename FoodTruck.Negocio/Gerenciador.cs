@@ -95,16 +95,12 @@ namespace FoodTruck.Negocio
 
         public Cliente BuscarClientePorCPF(String cpf)
         {
-            return this.Clientes
-                       .Where(cliente => cliente.CPF.Equals(cpf))
-                       .FirstOrDefault();
+            return this.Clientes.Where(cliente => cliente.CPF.Equals(cpf)).FirstOrDefault();
         }
 
         public Pedido BuscarPedidoPorCodigo(long codigoPedido)
         {
-            return this.Pedidos
-                       .Where(pedido => pedido.Id == codigoPedido)
-                       .FirstOrDefault();
+            return this.Pedidos.Where(pedido => pedido.Id == codigoPedido).FirstOrDefault();
         }
 
         public void AdicionarCliente(Cliente cliente)
@@ -138,19 +134,20 @@ namespace FoodTruck.Negocio
             this.Salvar();
         }
 
+        //informar tamanho, valor, etc.
         public void AdicionarBebida(Bebida bebida)
         {
             if (bebida == null)
-                throw new Exception("A bebida não pode ser nula");
+                throw new Exception("A bebida não pode ser nula/vazia.");
 
             if (String.IsNullOrEmpty(bebida.Nome))
-                throw new Exception("Informe o nome da bebida");
+                throw new Exception("Informe o nome da bebida: ");
 
             if (bebida.Valor < 0)
-                throw new Exception("O valor não pode ser negativo");
+                throw new Exception("O valor não pode ser negativo!");
 
             if (bebida.Tamanho <= 0)
-                throw new Exception("Informe o tamanho da bebida");
+                throw new Exception("Informe o tamanho da bebida: ");
 
             this.Bebidas.Add(bebida);
             this.Salvar();
@@ -195,10 +192,16 @@ namespace FoodTruck.Negocio
             Salvar();
         }
 
+        //remover cliente
+        public void RemoverCliente(string CPF)
+        {
+            this.Clientes.Remove(this.Clientes.Where(cliente => (cliente.CPF) == CPF).FirstOrDefault());
+        }
+
         public String GerarRelatorioGeral()
         {
             String relatorio = "";
-            relatorio += "=========== RELATORIO GERAL ===========" + Environment.NewLine;
+            relatorio += "=========== RELATÓRIO ===========" + Environment.NewLine;
             foreach(var cliente in this.Clientes)
             {
                 relatorio += "Nome: " + cliente.Nome + Environment.NewLine;
