@@ -26,6 +26,26 @@
       <Nome>Katiane Rocha</Nome>
       <Email>kati@gmail.com</Email>
     </Cliente>
+    <Cliente>
+      <CPF>84453629106</CPF>
+      <Nome>Gabriela Ferraz</Nome>
+      <Email>gabibi@gmail.com</Email>
+    </Cliente>
+    <Cliente>
+      <CPF>85248118034</CPF>
+      <Nome>Cassiane Benjamin</Nome>
+      <Email>cassiane.scheffer@gmail.com</Email>
+    </Cliente>
+    <Cliente>
+      <CPF>8524818034</CPF>
+      <Nome>Cassiane</Nome>
+      <Email>cassiane.scheffer@gmail.com</Email>
+    </Cliente>
+    <Cliente>
+      <CPF>85248118034</CPF>
+      <Nome>Cassiane Benjamin</Nome>
+      <Email>cassiane.scheffer@gmail.com</Email>
+    </Cliente>
   </Clientes>
   <Lanches>
     <Lanche>
@@ -52,6 +72,11 @@
       <Id>1</Id>
       <Nome>Fritas</Nome>
       <Valor>6.50</Valor>
+    </Lanche>
+    <Lanche>
+      <Id>8</Id>
+      <Nome>Pão de batata</Nome>
+      <Valor>4.00</Valor>
     </Lanche>
   </Lanches>
   <Bebidas>
@@ -117,6 +142,24 @@
           <Tamanho>100</Tamanho>
         </Bebida>
       </Bebidas>
+    </Pedido>
+    <Pedido>
+      <Id>67</Id>
+      <Data>2018-08-24T22:16:00</Data>
+      <Cliente>
+        <CPF>85647321980</CPF>
+        <Nome>Katiane Rocha</Nome>
+        <Email>kati@gmail.com</Email>
+      </Cliente>
+      <Encerrado>false</Encerrado>
+      <Lanches>
+        <Lanche>
+          <Id>2</Id>
+          <Nome>Pastel de Frango</Nome>
+          <Valor>4.00</Valor>
+        </Lanche>
+      </Lanches>
+      <Bebidas />
     </Pedido>
   </Pedidos>
 </DadosGravador>

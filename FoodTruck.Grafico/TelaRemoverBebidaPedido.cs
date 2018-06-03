@@ -60,5 +60,10 @@ namespace FoodTruck.Grafico
         {
 
         }
+
+        private void cbxBebidas_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

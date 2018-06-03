@@ -41,6 +41,7 @@
             this.dgCliente.Name = "dgCliente";
             this.dgCliente.Size = new System.Drawing.Size(582, 232);
             this.dgCliente.TabIndex = 0;
+            this.dgCliente.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgCliente_CellContentClick);
             // 
             // btAtualizar
             // 
@@ -62,7 +63,7 @@
             this.tbCadastrarCliente.UseVisualStyleBackColor = true;
             this.tbCadastrarCliente.Click += new System.EventHandler(this.tbCadastrarCliente_Click);
             // 
-            // ListarClientes
+            // TelaRemoverCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -70,7 +71,7 @@
             this.Controls.Add(this.tbCadastrarCliente);
             this.Controls.Add(this.btAtualizar);
             this.Controls.Add(this.dgCliente);
-            this.Name = "ListarClientes";
+            this.Name = "TelaRemoverCliente";
             this.Text = "ListarClientes";
             this.Load += new System.EventHandler(this.ListarClientes_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgCliente)).EndInit();

@@ -60,5 +60,10 @@ namespace FoodTruck.Grafico
         {
 
         }
+
+        private void cbxLanches_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

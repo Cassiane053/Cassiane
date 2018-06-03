@@ -79,3 +79,4 @@ C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Graf
 C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.csproj.CoreCompileInputs.cache
 C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.exe
 C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.pdb
+C:\Users\Positivo\Desktop\3o Semestre\PROGRAMACAO\FoodTruck_Cassi\FoodTruck.Grafico\obj\Debug\FoodTruck.Grafico.TelaRemoverCliente.resources

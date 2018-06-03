@@ -120,6 +120,12 @@
     <Compile Include="TelaRemoverBebidaPedido.Designer.cs">
       <DependentUpon>TelaRemoverBebidaPedido.cs</DependentUpon>
     </Compile>
+    <Compile Include="TelaRemoverCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaRemoverCliente.Designer.cs">
+      <DependentUpon>TelaRemoverCliente.cs</DependentUpon>
+    </Compile>
     <Compile Include="TelaRemoverLanchePedido.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -147,6 +153,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="TelaAdicionarBebidaPedido.resx">
       <DependentUpon>TelaAdicionarBebidaPedido.cs</DependentUpon>
@@ -172,6 +179,9 @@
     <EmbeddedResource Include="TelaRemoverBebidaPedido.resx">
       <DependentUpon>TelaRemoverBebidaPedido.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="TelaRemoverCliente.resx">
+      <DependentUpon>TelaRemoverCliente.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="TelaRemoverLanchePedido.resx">
       <DependentUpon>TelaRemoverLanchePedido.cs</DependentUpon>
     </EmbeddedResource>
@@ -193,6 +203,21 @@
       <Project>{bf5ce6a1-0122-4c8d-b8b9-7f7e1d6b9575}</Project>
       <Name>FoodTruck.Negocio</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lanche.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bebida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pedido.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-user.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -72,6 +72,7 @@
             this.cbxLanches.Name = "cbxLanches";
             this.cbxLanches.Size = new System.Drawing.Size(290, 21);
             this.cbxLanches.TabIndex = 3;
+            this.cbxLanches.SelectedIndexChanged += new System.EventHandler(this.cbxLanches_SelectedIndexChanged);
             // 
             // pictureBox1
             // 

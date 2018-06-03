@@ -37,6 +37,7 @@
             this.btSalvar = new System.Windows.Forms.Button();
             this.btCancelar = new System.Windows.Forms.Button();
             this.imagemCliente = new System.Windows.Forms.PictureBox();
+            this.btRemover = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.imagemCliente)).BeginInit();
             this.SuspendLayout();
             // 
@@ -120,11 +121,22 @@
             this.imagemCliente.TabStop = false;
             this.imagemCliente.Click += new System.EventHandler(this.imagemCliente_Click);
             // 
+            // btRemover
+            // 
+            this.btRemover.Location = new System.Drawing.Point(41, 151);
+            this.btRemover.Name = "btRemover";
+            this.btRemover.Size = new System.Drawing.Size(75, 23);
+            this.btRemover.TabIndex = 9;
+            this.btRemover.Text = "Remover";
+            this.btRemover.UseVisualStyleBackColor = true;
+            this.btRemover.Click += new System.EventHandler(this.btRemover_Click);
+            // 
             // TelaCadastrarCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(468, 186);
+            this.Controls.Add(this.btRemover);
             this.Controls.Add(this.imagemCliente);
             this.Controls.Add(this.btCancelar);
             this.Controls.Add(this.btSalvar);
@@ -153,5 +165,6 @@
         private System.Windows.Forms.Button btSalvar;
         private System.Windows.Forms.Button btCancelar;
         private System.Windows.Forms.PictureBox imagemCliente;
+        private System.Windows.Forms.Button btRemover;
     }
 }
